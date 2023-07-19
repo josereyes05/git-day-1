@@ -1,2 +1,3 @@
 # git-day-1
-Jeez this is my first class of git
+This is my first class of git
+let's try something
