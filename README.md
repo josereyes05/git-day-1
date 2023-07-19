@@ -1,2 +1,2 @@
 # git-day-1
-I'm learning git
+Jeez this is my first class of git
